@@ -1,0 +1,14 @@
+img{
+    height: 50 px;
+    max-width: 50%;
+}
+h1{
+    color: blue;
+}
+body{
+    background-color: pink;
+}
+.btn{
+    background-color: green;
+
+}
